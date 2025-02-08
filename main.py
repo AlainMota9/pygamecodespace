@@ -68,4 +68,7 @@ while not fim_jogo:
     pygame.time.wait(20)
     pygame.display.update()
 
+
 pygame.quit()
+
+# Notas essa foi a segunda modificação
